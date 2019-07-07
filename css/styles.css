@@ -1,0 +1,52 @@
+
+body{
+  font-size: 18px !important;
+  background-color:#5d001e!important;
+  color:#e3e2df;
+
+}
+
+
+.container>div>h1{
+  
+  color:#e3e3df;
+  font-size: 46px;
+  margin-top:100px;
+  margin-bottom: 50px;
+}
+
+.bg-light{
+  background-color: #e3e2df !important;
+  margin-bottom: 10px !important;
+  border-bottom: 3px solid #ee4c7c;
+  
+}
+
+.navbar-brand{
+  color:#5d001e !important;
+  font-weight: bold;
+  font-size:48px !important;
+}
+
+.navbar-nav > .nav-item > a {
+position: relative; 
+}
+
+.box{
+  padding:5px;
+  border-radius: 3px;
+  background-color:  #e3afbc;
+  margin-bottom: 5px;
+  color:#9a1750;
+  border: 3px solid #9a1750;
+}
+
+.row{
+    overflow: hidden; 
+}
+
+[class*="col-"]{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
