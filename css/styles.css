@@ -52,4 +52,6 @@ position: relative;
 
 .nav-link{
   color:#9a1750!important;
+  font-weight: bold;
+  text-shadow: 0 0 3px #ff0000;
 }
