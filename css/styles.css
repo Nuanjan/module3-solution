@@ -76,3 +76,11 @@ position: relative;
   background-color: #555; /* Add a dark-grey background on hover */
 }
 
+a:link{
+  color:#5d001e;
+}
+
+#top{
+  color:#5d001e;
+  font-size: 1em;
+}
